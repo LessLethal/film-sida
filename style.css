@@ -1,52 +1,72 @@
-body{
-    margin: 0px;
+body {
+  margin: 0px;
 }
 
-.center{
-        text-align: center;
-     
-}
-.a{
-    color: aqua;
+.width25 {
+    width: 20vw;
+    
 }
 
-.textred{
-    color: red;
+.divtest {
+    margin: 0 2vw;
+    float: left;
 }
-.text{
-    margin-top: 2px;
-    margin-left: 59px;
+
+.noleft {
+    margin-left: 0;
+}
+
+.divtest p {
+    width: 20vw;
+    text-align: center;
+    background-color: aqua  ;
+    margin: 0;
+    padding: 5px 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.img {
+  width: 20vw;
+  height: 300px;
+}
+
+.a {
+  color: aqua;
+}
+
+.textred {
+  color: red;
+}
+.text {
+  margin-top: 2px;
+  margin-left: 110px;
 }
 
 .topnav {
-    background-color: rgb(0, 0, 0);
-    height: 20px;
-  }
-.margintext{
-    margin-top: 0px;
-
-    margin-bottom: 0px;
+  background-color: rgb(0, 0, 0);
+  height: 20px;
 }
-.marginright{
-      border: 1px solid black;
-        margin-right: 1336px;
-      background-color: lightgreen;
-    }
-    .marginLeft{
-        border: 1px solid black;
-        text-align: center;
-        background-color: lightgreen;
-        margin-right: 40%;
-        margin-left: 40%;
-      }
+.margintext {
+  margin-top: 0px;
   
+  margin-bottom: 0px;
+}
 
- 
 
-a:hover{
-    background-color: white;
-    }
+a:hover {
+  color: white;
+}
 
-    .p{
-        margin-left: 59px;
-    }
+.p {
+  margin-left: 59px;
+}
+
+.titel {
+    width: 300px;
+    margin: 0 auto;
+    background-color: green;
+    padding: 1px 0;
+}
